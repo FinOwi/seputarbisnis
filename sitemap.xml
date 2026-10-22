@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-10-23</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-10-23</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-10-23</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-10-23</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/tentang.html</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/kur-tembus-260-triliun-oktober-2026.html</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-22T20:00:00+07:00</news:publication_date><news:title>KUR Tembus Rp260,8 Triliun, 4 Juta Pelaku Usaha Sudah Terjangkau</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/agen-brilink-nilam-sari-medan-15-gerai.html</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-22T20:05:00+07:00</news:publication_date><news:title>Dari Toko Besi Jadi 15 Gerai: Kisah Agen BRILink Nilam Sari di Medan</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/pendanaan-fintech-asia-tenggara-melonjak-206-persen.html</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-22T20:10:00+07:00</news:publication_date><news:title>Pendanaan Fintech Asia Tenggara Meledak 206%, tapi Jumlah Deal Justru Anjlok</news:title></news:news></url>
+</urlset>
