@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
   <url><loc>https://seputarbisnis.my.id/tentang.html</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://seputarbisnis.my.id/pasar/ihsg-menguat-tiga-hari-beruntun-22-oktober-2026.html</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-22T20:15:00+07:00</news:publication_date><news:title>IHSG Menguat Tiga Hari Beruntun, Ditutup di Level 5.387,90</news:title></news:news></url>
@@ -23,4 +23,10 @@
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-26T08:35:00+07:00</news:publication_date><news:title>Tekko Hadir di Medan: Tiga Kuliner Indonesia, Jepang, dan Kopi dalam Satu Lokasi</news:title></news:news></url>
   <url><loc>https://seputarbisnis.my.id/teknologi/brin-rise-2026-20-startup-dana-300-juta-26-oktober-2026.html</loc><lastmod>2026-10-26</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-26T08:40:00+07:00</news:publication_date><news:title>BRIN RISE 2026 Buka Pendaftaran: 20 Startup Dipilih, Dana hingga Rp300 Juta</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/ihsg-rebound-5282-rupiah-mepet-rekor-terendah-29-oktober-2026.html</loc><lastmod>2026-10-29</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-29T08:45:00+07:00</news:publication_date><news:title>IHSG Rebound ke 5.282,31, Rupiah Malah Mepet Rekor Terendah</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/investor-startup-ri-anjlok-39-persen-29-oktober-2026.html</loc><lastmod>2026-10-29</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-29T08:40:00+07:00</news:publication_date><news:title>Investor Startup RI Anjlok 39%, tapi Nilai Pendanaan Malah Melonjak 111%</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/bantuan-pangan-beras-asahan-29-oktober-2026.html</loc><lastmod>2026-10-29</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-29T08:35:00+07:00</news:publication_date><news:title>Bantuan Pangan Beras Diluncurkan di Asahan, 33,2 Juta Keluarga Jadi Sasaran</news:title></news:news></url>
 </urlset>
