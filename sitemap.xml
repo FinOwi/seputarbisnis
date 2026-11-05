@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
+  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
   <url><loc>https://seputarbisnis.my.id/tentang.html</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://seputarbisnis.my.id/pasar/ihsg-menguat-tiga-hari-beruntun-22-oktober-2026.html</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-22T20:15:00+07:00</news:publication_date><news:title>IHSG Menguat Tiga Hari Beruntun, Ditutup di Level 5.387,90</news:title></news:news></url>
@@ -37,4 +37,12 @@
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-02T08:35:00+07:00</news:publication_date><news:title>Sumut Surplus Beras 27.633 Ton, Cabai Ikut Surplus</news:title></news:news></url>
   <url><loc>https://seputarbisnis.my.id/umkm/kredit-program-294-triliun-kur-901-persen-2-november-2026.html</loc><lastmod>2026-11-02</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-02T08:30:00+07:00</news:publication_date><news:title>Kredit Program Tembus Rp294,6 Triliun, KUR Sudah 90,1% Target</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/ihsg-rebound-4919-brent-terjun-87-persen-5-november-2026.html</loc><lastmod>2026-11-05</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-05T08:45:00+07:00</news:publication_date><news:title>IHSG Rebound 0,32% ke 4.919,77, Brent Malah Terjun 8,7% ke US$94,62</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/pajak-digital-9-november-bank-fintech-marketplace-5-november-2026.html</loc><lastmod>2026-11-05</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-05T08:40:00+07:00</news:publication_date><news:title>Pajak Digital Ditargetkan Jalan 9 November, Bank hingga Shopee dan GoTo Jadi Pemungut</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/pud-pembangunan-medan-cari-investor-aset-strategis-5-november-2026.html</loc><lastmod>2026-11-05</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-05T08:35:00+07:00</news:publication_date><news:title>Wali Kota Medan Dorong PUD Pembangunan Cari Investor untuk Aset Strategis</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/kur-dievaluasi-besar-besaran-sapa-umkm-5-november-2026.html</loc><lastmod>2026-11-05</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-05T08:30:00+07:00</news:publication_date><news:title>KUR Dievaluasi Besar-besaran, Bank Penyalur Didorong Nyambung ke Sapa UMKM</news:title></news:news></url>
 </urlset>
