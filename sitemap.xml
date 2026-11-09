@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
+  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
   <url><loc>https://seputarbisnis.my.id/tentang.html</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://seputarbisnis.my.id/pasar/ihsg-menguat-tiga-hari-beruntun-22-oktober-2026.html</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-22T20:15:00+07:00</news:publication_date><news:title>IHSG Menguat Tiga Hari Beruntun, Ditutup di Level 5.387,90</news:title></news:news></url>
@@ -45,4 +45,12 @@
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-05T08:35:00+07:00</news:publication_date><news:title>Wali Kota Medan Dorong PUD Pembangunan Cari Investor untuk Aset Strategis</news:title></news:news></url>
   <url><loc>https://seputarbisnis.my.id/umkm/kur-dievaluasi-besar-besaran-sapa-umkm-5-november-2026.html</loc><lastmod>2026-11-05</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-05T08:30:00+07:00</news:publication_date><news:title>KUR Dievaluasi Besar-besaran, Bank Penyalur Didorong Nyambung ke Sapa UMKM</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/ihsg-tembus-505043-msci-ujian-pekan-ini-9-november-2026.html</loc><lastmod>2026-11-09</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-09T07:30:00+07:00</news:publication_date><news:title>IHSG Tembus 5.050,43, LQ45 Naik 0,90% — MSCI Jadi Ujian Pekan Ini</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/ojk-94-pinjol-resmi-berizin-cek-sebelum-pinjam-9-november-2026.html</loc><lastmod>2026-11-09</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-09T08:15:00+07:00</news:publication_date><news:title>OJK: 94 Pinjol Resmi Berizin per Oktober 2026, Cek Dulu Sebelum Pinjam</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/ekonomi-sumut-tumbuh-486-persen-daya-beli-melambat-9-november-2026.html</loc><lastmod>2026-11-09</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-09T08:00:00+07:00</news:publication_date><news:title>Ekonomi Sumut Tumbuh 4,86%, tapi Daya Beli Melambat — Kuliner dan Akomodasi Paling Kencang</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/apkli-rp175-miliar-20000-pkl-lawan-rentenir-pinjol-ilegal-9-november-2026.html</loc><lastmod>2026-11-09</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-09T07:45:00+07:00</news:publication_date><news:title>APKLI Siapkan Rp175 Miliar untuk 20.000 Pedagang Kaki Lima, Lawan Rentenir dan Pinjol Ilegal</news:title></news:news></url>
 </urlset>
