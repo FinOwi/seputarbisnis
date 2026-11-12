@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
+  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
   <url><loc>https://seputarbisnis.my.id/tentang.html</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://seputarbisnis.my.id/pasar/ihsg-menguat-tiga-hari-beruntun-22-oktober-2026.html</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-22T20:15:00+07:00</news:publication_date><news:title>IHSG Menguat Tiga Hari Beruntun, Ditutup di Level 5.387,90</news:title></news:news></url>
@@ -53,4 +53,12 @@
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-09T08:00:00+07:00</news:publication_date><news:title>Ekonomi Sumut Tumbuh 4,86%, tapi Daya Beli Melambat — Kuliner dan Akomodasi Paling Kencang</news:title></news:news></url>
   <url><loc>https://seputarbisnis.my.id/umkm/apkli-rp175-miliar-20000-pkl-lawan-rentenir-pinjol-ilegal-9-november-2026.html</loc><lastmod>2026-11-09</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-09T07:45:00+07:00</news:publication_date><news:title>APKLI Siapkan Rp175 Miliar untuk 20.000 Pedagang Kaki Lima, Lawan Rentenir dan Pinjol Ilegal</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/msci-depak-brpt-brms-9-saham-berubah-nasib-12-november-2026.html</loc><lastmod>2026-11-12</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-12T07:30:00+07:00</news:publication_date><news:title>MSCI Depak BRPT dan BRMS dari Indeks Global, 9 Saham Indonesia Berubah Nasib</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/harga-tapioka-naik-zulhas-tahan-impor-12-november-2026.html</loc><lastmod>2026-11-12</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-12T07:45:00+07:00</news:publication_date><news:title>Harga Tapioka Naik, Zulhas Tahan Impor demi Petani Singkong</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/gubernur-bobby-usulkan-kek-desk-investasi-12-november-2026.html</loc><lastmod>2026-11-12</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-12T08:00:00+07:00</news:publication_date><news:title>Gubernur Bobby Usulkan Empat KEK Baru, Investasi Sumut Tembus Rp37 Triliun</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/umkm-sumut-beralih-kasir-digital-offline-12-november-2026.html</loc><lastmod>2026-11-12</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-12T08:15:00+07:00</news:publication_date><news:title>Dari Buku Tulis ke Kasir Offline: Warkop dan UMKM Sumut Beralih Digital</news:title></news:news></url>
 </urlset>
