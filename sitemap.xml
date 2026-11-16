@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
+  <url><loc>https://seputarbisnis.my.id/</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seputarbisnis.my.id/indeks.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
   <url><loc>https://seputarbisnis.my.id/tentang.html</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://seputarbisnis.my.id/pasar/ihsg-menguat-tiga-hari-beruntun-22-oktober-2026.html</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-10-22T20:15:00+07:00</news:publication_date><news:title>IHSG Menguat Tiga Hari Beruntun, Ditutup di Level 5.387,90</news:title></news:news></url>
@@ -61,4 +61,12 @@
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-12T08:00:00+07:00</news:publication_date><news:title>Gubernur Bobby Usulkan Empat KEK Baru, Investasi Sumut Tembus Rp37 Triliun</news:title></news:news></url>
   <url><loc>https://seputarbisnis.my.id/teknologi/umkm-sumut-beralih-kasir-digital-offline-12-november-2026.html</loc><lastmod>2026-11-12</lastmod><priority>0.9</priority>
     <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-12T08:15:00+07:00</news:publication_date><news:title>Dari Buku Tulis ke Kasir Offline: Warkop dan UMKM Sumut Beralih Digital</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/pasar/ihsg-melesat-582-persen-sepekan-rupiah-rekor-terlemah-16-november-2026.html</loc><lastmod>2026-11-16</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-16T07:30:00+07:00</news:publication_date><news:title>IHSG Melesat 5,82% Sepekan ke 5.344,41, Rupiah Malah Cetak Rekor Terlemah</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/umkm/harga-pangan-naik-serentak-cabai-keriting-rp122500-16-november-2026.html</loc><lastmod>2026-11-16</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-16T07:45:00+07:00</news:publication_date><news:title>Harga Pangan Naik Serentak, Cabai Keriting Tembus Rp122.500 per Kg</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/lokal/banpres-rp4835-miliar-16118-umkm-sumut-16-november-2026.html</loc><lastmod>2026-11-16</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-16T08:00:00+07:00</news:publication_date><news:title>Banpres Rp48,35 Miliar Mengalir ke 16.118 UMKM Sumut Terdampak Bencana</news:title></news:news></url>
+  <url><loc>https://seputarbisnis.my.id/teknologi/samir-salurkan-rp37-triliun-fintech-luar-jawa-16-november-2026.html</loc><lastmod>2026-11-16</lastmod><priority>0.9</priority>
+    <news:news><news:publication><news:name>SeputarBisnis</news:name><news:language>id</news:language></news:publication><news:publication_date>2026-11-16T08:15:00+07:00</news:publication_date><news:title>Samir Salurkan Rp3,7 Triliun, Fintech Makin Menjauh dari Jawa</news:title></news:news></url>
 </urlset>
